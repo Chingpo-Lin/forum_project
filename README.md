@@ -1,5 +1,5 @@
 # forum_project
-simple readme file \n
+simple readme file "\n"
 forum web project, with functionalities of login/sign up, post, reply
 
 use javaweb tools
