@@ -1,5 +1,5 @@
 # forum_project
-
+simple readme
 forum web project, with functionalities of login/sign up, post, reply
 
 use javaweb tools
